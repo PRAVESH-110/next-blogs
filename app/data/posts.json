@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering Next.js Data Fetching",
+    "slug": "mastering-nextjs-data-fetching",
+    "excerpt": "Learn the difference between SSR, SSG, and ISR in Next.js with practical examples.",
+    "content": "Next.js offers multiple data fetching strategies like SSR, SSG, and ISR. Understanding when to use each one is key to building fast, scalable apps...",
+    "category": "Next.js",
+    "author": "Pravesh Dhakal",
+    "date": "2025-10-10",
+    "image": "/images/nextjs-data-fetching.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Why TypeScript Makes Frontend Development Easier",
+    "slug": "typescript-for-frontend",
+    "excerpt": "TypeScript adds type safety and better tooling to JavaScript, making frontend apps more reliable.",
+    "content": "TypeScript is a superset of JavaScript that brings static typing to your projects. It helps catch bugs early, improves IDE autocomplete, and makes refactoring safer...",
+    "category": "TypeScript",
+    "author": "Pravesh Dhakal",
+    "date": "2025-09-25",
+    "image": "/images/typescript-frontend.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Building a Static Blog with Next.js and Markdown",
+    "slug": "nextjs-markdown-blog",
+    "excerpt": "A step-by-step guide to creating a markdown-powered blog using Next.js SSG.",
+    "content": "With Next.js, you can easily generate static pages for each markdown file. This improves SEO and performance without needing a full backend...",
+    "category": "Next.js",
+    "author": "Guest Writer",
+    "date": "2025-08-12",
+    "image": "/images/nextjs-markdown.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Top 5 Performance Tips for Next.js Projects",
+    "slug": "nextjs-performance-tips",
+    "excerpt": "From image optimization to lazy loading and ISR — learn how to make your Next.js apps lightning fast.",
+    "content": "Performance is one of the biggest advantages of Next.js, but it still requires attention. Use the built-in Image component, enable ISR, and analyze your app with Lighthouse...",
+    "category": "Performance",
+    "author": "Pravesh Dhakal",
+    "date": "2025-07-30",
+    "image": "/images/nextjs-performance.jpg"
+  }
+]
